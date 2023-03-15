@@ -61,10 +61,6 @@
         "email": "cnorssister9@mayoclinic.com"
       }
     ],
-    "todos":[{
-      "id":1,
-      "name":"Abran Proback",
-      "status":false
-          }],
+    "todos":[],
           "wishlist":[{}]
   }
