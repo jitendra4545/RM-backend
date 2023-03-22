@@ -2,5 +2,184 @@
   "users": [],
   "todos": [],
   "wishlist": [],
-  "hotels": []
+  "hotels": [
+    {
+      "category": "Deluxe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354345",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 3
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 4
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "4",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 5
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 6
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 7
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 8
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 9
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 10
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 11
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "NON_AC",
+      "bed_type": "Single",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 12
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 13
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 14
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 15
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 16
+    },
+    {
+      "category": "Family",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "45354",
+      "booked": false,
+      "id": 17
+    }
+  ],
+  "signup":[],
+  "tasks":[]
 }
